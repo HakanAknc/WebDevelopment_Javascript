@@ -71,7 +71,4 @@ Bu proje açık kaynaklıdır ve katkıda bulunmak her zaman hoş karşılanır.
 4. Dalınızı ana repoya (upstream) gönderin (Pull Request oluşturun).
 5. İncelemeye alınacak ve onaylanacak olan değişiklikleri bekleyin.
 
-## Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
